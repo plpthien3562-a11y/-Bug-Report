@@ -29,3 +29,4 @@ Please provide server logs (via pastebin.com) or screenshots if applicable.
 ### 📋 Additional Context
 Add any other context about the problem here.
 
+https://github.com/plpthien3562-a11y/-Bug-Report/issues
