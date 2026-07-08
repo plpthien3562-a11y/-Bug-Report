@@ -1,6 +1,6 @@
 # -Bug-Report
 ---
-name: 🐛 Bug Report
+ 🐛 Bug Report
 about: Create a report to help us improve and fix bugs in this fork.
 title: '[BUG] '
 labels: bug
